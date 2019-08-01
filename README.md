@@ -1,4 +1,4 @@
-# Agregando paquete de idioma español para Laravel ^5:
+# Agregando paquete de idioma español en Laravel 5.8
 
 ```
 $| composer require laraveles/spanish
